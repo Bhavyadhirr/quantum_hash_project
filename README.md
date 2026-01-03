@@ -1,6 +1,3 @@
-# quantum_hash_project
-Prototype quantum hash function using parameterized circuits - with testing entropy, collision, avalanche &amp; bit independence tests. Built with Qiskit.
-
 # Mark-1: A Quantum Hash Function Prototype
 
 ## Overview
